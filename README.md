@@ -25,7 +25,7 @@ It fetches and displays the current weather 🌦️, temperature 🌡️, wind �
    ```bash
    git clone https://github.com/your-username/weather-cli.git
    cd weather-cli
-````
+   ```
 
 2. Create and activate a virtual environment (optional but recommended):
 
