@@ -31,8 +31,8 @@ It fetches and displays the current weather 🌦️, temperature 🌡️, wind �
 
    ```bash
    python -m venv venv
-   source venv/bin/activate   # Mac/Linux
-   venv\Scripts\activate      # Windows
+   source venv/bin/activate     # Mac/Linux
+   .\venv\Scripts\Activate.ps1  # Windows
    ```
 
 3. Install dependencies:
