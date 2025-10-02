@@ -125,10 +125,8 @@ Pull requests are welcome! Open an issue for suggestions or bug reports 🐛.
 
 ## 💡 Author
 
-Made with 💖 by **Your Name**  
+Made with 💖 by **SUBRATA PAL**  
 
 ---
 
-👉 Subrata, this README is now **colorful, structured, and GitHub-ready**.  
-Would you like me to also generate a **`requirements.txt`** file that matches your new code (with `requests`, `python-dotenv`, and optional `rich`)?
 
